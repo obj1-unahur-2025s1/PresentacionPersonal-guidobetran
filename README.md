@@ -4,10 +4,13 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Guido Betran
+- Vivo en : Ituzaingo
 
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Entreno basket
+- Tengo 25 años
+- Segundo año en la tecnicatura
+- Estudie previamente en la Unlam
