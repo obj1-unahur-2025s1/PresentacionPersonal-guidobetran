@@ -14,3 +14,4 @@
 - Tengo 25 años
 - Segundo año en la tecnicatura
 - Estudie previamente en la Unlam
+_ Ya habia usado el vsc antes
